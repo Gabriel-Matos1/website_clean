@@ -1,0 +1,60 @@
+/*geral*/
+
+.fot{
+    background-color: white;
+    margin-bottom: 0%;
+    color: black;
+    text-align: left;
+    border: whitesmoke 0px;
+    align-items: center;
+    text-align: center;
+}
+.lado{
+    display: inline-flex;
+    width: 98%;
+    text-align: center;
+}
+
+/*parte sobre os projetos*/
+
+.fot_text{
+    width: 20em;
+    margin-left: 3em;
+    margin-right: 5em;
+    margin-bottom: 0%;
+    text-align: left;
+}
+.text_sub{
+    margin-left: 3em;
+}
+.ops{
+    margin-left: 7em;
+}
+
+/*Goku*/
+
+.img_img{
+    margin-right:auto;
+    margin-left: auto;
+    width: 25em;   
+}
+
+/*parte sobre os contatos*/
+
+.contats{
+    text-align: right;
+    margin-right: 3em;
+    margin-left: 5em;
+
+}
+/*parte final - direitos reservados*/
+
+
+.direitos{
+    font-size: 15px;
+    margin-top: 2em;
+}
+hr{
+    color: black;
+    width: 95%;
+}

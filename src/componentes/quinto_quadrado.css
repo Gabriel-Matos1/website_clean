@@ -1,0 +1,58 @@
+
+.feed_quinto{
+    background-color: rgb(224, 203, 209);
+}
+.title{
+    margin-top: 3em;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.videoconteiner{
+ 
+    margin-top: 4em;
+    display: flex;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.videotext{
+    width: 40%;
+
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    text-align: left;
+    margin-bottom: 4em;
+}
+.box_video_text{
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    height: 6em;
+    border-radius: 22px;
+}
+.video_text_box1{
+    margin: 17px 17px 17px 17px;
+    margin-top: 17px;
+    font-weight: bolder;
+}
+.video_text_box2{
+
+    margin: 17px 17px 17px 17px;
+    margin-top: 17px;
+}
+.getstartbutton{
+    background-color: yellow;
+    border-radius: 33px;
+    border: none;
+    color: black;
+    font-size: 22px;
+    width: 6em;
+    height: 3em;
+    margin-right: 30px;
+    margin-bottom: 4em;
+
+}
+.getstartbutton:hover{
+    background-color: rgb(238, 238, 6);
+}

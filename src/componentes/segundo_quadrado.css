@@ -1,0 +1,32 @@
+.feed{
+    margin-top: 7em;
+    margin-bottom: 7em;
+}
+.title{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.title_sub{
+    color: blue;
+}
+.subtititle{
+   font-size: 22px;
+   width: 26em;
+   margin-left: 5em;
+}
+.box_text{
+    border-radius: 22px;
+    background-color: aliceblue;
+    
+}
+.text_box1{
+    margin: 12px 12px 12px 12px;
+    font-size: 25px;
+    color: blue;
+}
+.text_box2{
+    margin: 12px 12px 12px 12px;
+    font-size: 23px;
+    color: black;
+
+}

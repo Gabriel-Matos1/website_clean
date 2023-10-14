@@ -1,0 +1,19 @@
+.feed {
+    display: flex;
+    padding: 0%;
+    width:100%;
+    text-align: left;
+}
+.principal{
+    
+    width: 70%;
+}
+.marcas{
+    margin-top: 30px;
+}
+.imglogos{
+    width: 10%;
+    vertical-align: top;
+    margin-left: 5px;
+    margin-right: 5px;
+}

@@ -1,0 +1,65 @@
+/*geral*/
+.itemback{
+    margin-top: 0%;
+    padding: 0%;
+    height: 6em;
+    vertical-align: middle;
+    position: relative;
+    vertical-align:middle;
+    text-align: center;
+    justify-content: center;
+
+}
+/*Primeira parte*/
+
+.titulo{
+    margin-left: 1em;
+    text-align: center;
+    margin-top: 20px;
+    vertical-align: middle;
+    font-size: 40px;
+
+}
+.menu{
+    margin-left: auto;
+    margin-right: 60px;
+    margin-top: 20px;
+    vertical-align:middle;
+    text-align: center;
+    justify-content: center;
+}
+.HeaderOpcoes{
+    margin-left: 6em;
+    display: flex;
+
+    vertical-align: middle;
+
+}
+.HeaderBots{
+    vertical-align: middle;
+
+    margin-top: 0%;
+    top: 0%;
+    color: gray;
+    font-size: 25px;
+    width: 130px;
+    height: 2em;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.singin{
+    vertical-align: middle;
+font-size: 20px;
+    background-color: yellow;
+    color: black;
+    border-radius: 33px;
+    border: none;
+    height: 40px;
+    width: 90px;
+}
+
+.singin:hover{
+     background-color:  rgb(238, 238, 6);
+ }

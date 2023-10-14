@@ -1,0 +1,53 @@
+/*geral*/
+.itemback{
+    margin-top: 0%;
+    padding: 0%;
+}
+/*Primeira parte*/
+.primeiraParte {
+    background-color: blueviolet;
+    color: white;
+    font-size: 40px;
+    height: 2em;
+    margin-bottom: 0;
+
+}
+.titulo{
+    text-align: center;
+    margin-top: auto;
+    vertical-align: bottom;
+
+}
+/*linha*/
+/*Segunda parte com botões e opções*/
+.SegParte{
+    height: 4em;
+    margin-bottom: 0;
+    margin-top: 0;
+    background-color:rgb(52, 1, 100);
+    color:whitesmoke;
+    text-align: left;
+    border-top: whitesmoke solid 0.5px;
+   
+}
+.HeaderOpcoes{
+    margin-left: 6em;
+    display: flex;
+}
+.HeaderBots{
+    margin-top: 0%;
+    top: 0%;
+    color: whitesmoke;
+    font-size: 25px;
+    width: 130px;
+    height: 2em;
+    border-color: aqua;
+    text-align: center;
+}
+.HeaderBots:hover{
+    color:blueviolet;
+    border-width: 90px;
+    border-bottom-right-radius: 1em;
+    border-bottom-left-radius: 1em;
+    background-color:whitesmoke
+}
